@@ -1,7 +1,2 @@
-# Code Institute
-
-Welcome PT-70,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+# My Very First Webpage
+Welcome!
